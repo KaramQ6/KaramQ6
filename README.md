@@ -50,6 +50,8 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Deep Learning & Reinforcement Learning (RL)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -70,33 +72,20 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+### Data Science & Telemetry
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**agentflow**](https://github.com/KaramQ6/agentflow) | Lightweight multi-agent AI pipeline framework with decorator-based API. Published on PyPI. | Python, AsyncIO, Pydantic |
-| [**ai-crew-studio**](https://github.com/KaramQ6/ai-crew-studio) | Multi-agent research system with real-time streaming and collaborative AI workflows. | Python, FastAPI, React |
-| [**nexus-kit**](https://github.com/KaramQ6/nexus-kit) | Full-stack SaaS starter template with auth, billing, and dashboard. | FastAPI, React, Supabase, Stripe |
-| [**robo-dash**](https://github.com/KaramQ6/robo-dash) | Real-time robotics telemetry dashboard with sensor visualization. | React, D3.js, WebSocket |
-| [**nova-spectrum**](https://github.com/KaramQ6/nova-spectrum) | AI company landing page with scroll animations, glassmorphism, and particle effects. | React, Framer Motion, Tailwind CSS |
-
----
-
-## GitHub Stats
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaramQ6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaramQ6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
