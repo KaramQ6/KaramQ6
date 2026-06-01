@@ -82,8 +82,8 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KaramQ6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaramQ6&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaramQ6&theme=tokyonight" alt="Top Languages" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaramQ6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
