@@ -48,7 +48,7 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ### AI & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-EA4B71?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
