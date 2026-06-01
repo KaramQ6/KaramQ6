@@ -50,7 +50,6 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-EA4B71?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Deep Learning & Reinforcement Learning (RL)
@@ -83,8 +82,8 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaramQ6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KaramQ6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaramQ6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
