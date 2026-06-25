@@ -26,7 +26,7 @@ A dual-layer AI architecture designed to optimize propellant-constrained orbital
 2. **RAG Operational Advisory**: A Retrieval-Augmented Generation system providing mission teams with instant, grounded advice indexed from NASA/ESA debris mitigation guidelines.
 * **Tech Stack**: Python, Stable-Baselines3, Gym/Gymnasium, PyTorch, BM25 RAG, Orbital Physics Simulation, Pytest.
 
-### 💼 [Personal Portfolio](https://github.com/KaramQ6/Karam)
+### 💼 [Personal Portfolio](https://www.karamdev.com)
 Karam's official developer portfolio website, featuring a modern glassmorphic interface and custom interactions:
 * **Features**: Dynamic bento-grid layout, fluid scroll-driven animations, responsive UI/UX, and an integrated booking scheduling engine.
 * **Tech Stack**: React, GSAP, Tailwind CSS, Vite, Vercel.
@@ -100,6 +100,7 @@ A collaborative multi-agent orchestration platform designed for managing autonom
 
 ## 🌐 Connect
 
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://www.karamdev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KaramQ6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karam-khasawneh)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/KaramQ6)
