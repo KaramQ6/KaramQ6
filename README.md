@@ -47,7 +47,7 @@ As **Founder & CEO of NovaSpectrum**, I design and deploy end-to-end automation 
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript&perline=3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javascript&perline=4)](https://skillicons.dev)
 
 **Frontend**
 
@@ -273,16 +273,6 @@ _Neural Networks · Machine Learning · Robotics & Automation · Autonomous Syst
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&hide_border=true&langs_count=10&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaramQ6&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
