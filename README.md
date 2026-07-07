@@ -85,25 +85,6 @@ Personal portfolio: glassmorphic bento-grid design, GSAP scroll-driven animation
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaramQ6&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KaramQ6&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramQ6&layout=compact&hide_border=true&langs_count=10&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaramQ6&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="activity graph" width="100%" />
-
-</div>
-
----
-
 ## Now
 
 ```yaml
